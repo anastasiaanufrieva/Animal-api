@@ -1,0 +1,9 @@
+.sizeImg {
+  max-width: 640px;
+  max-height: 480px;
+}
+
+.card {
+  display: block !important;
+  border: none;
+}
